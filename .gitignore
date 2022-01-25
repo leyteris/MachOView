@@ -38,3 +38,32 @@ otool_disasm/.svn/text-base/symbol.c.svn-base
 otool_disasm/disasm.xcodeproj/.svn/all-wcprops
 otool_disasm/disasm.xcodeproj/.svn/entries
 otool_disasm/disasm.xcodeproj/.svn/text-base/project.pbxproj.svn-base
+
+.DS_Store
+*/build/*
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.moved-aside
+DerivedData
+.idea/
+*.hmap
+*.linkmap
+Build
+
+## Workspace
+*.xcworkspace/
+
+## Pods
+Pods/
+Podfile.lock
+## Other
+*.xccheckout
+*.moved-aside
+*.xcuserstate
